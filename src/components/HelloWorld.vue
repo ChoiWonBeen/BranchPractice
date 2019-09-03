@@ -3,7 +3,7 @@
     <h1>It is fixed fixfixed</h1>
     this is textzone
     <p>
-    so it was two
+    so it was two hothotfix
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
